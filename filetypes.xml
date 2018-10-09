@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="conf" approved="true" type="HOCON" />
+      <mapping ext="private" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="SmartyConfig" />
+    </extensionMap>
+  </component>
+</application>
